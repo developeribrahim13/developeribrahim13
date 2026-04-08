@@ -40,9 +40,14 @@ Welcome to my digital space! I am a passionate learner currently diving deep int
 
 ---
 
-### 📊 My Stats:
-![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)
+### 📊 My GitHub Stats:
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=developeribrahim13&show_icons=true&theme=radical" alt="Ibrahim's GitHub stats" />
+</p>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developeribrahim13&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
 ---
 

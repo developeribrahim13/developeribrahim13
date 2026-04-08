@@ -59,8 +59,9 @@ Welcome to my digital space! I am a passionate learner currently focused on buil
 ---
 
 ### 📫 How to reach me:
-- 💼 https://bd.linkedin.com/in/developeribrahim13
+- 💼 Linkedin: https://bd.linkedin.com/in/developeribrahim13
 - 📧 Email: developeribrahim13@gmail.com
+- 📞 Phone: 01846-552436
 
 ---
 *“Coding is not just about writing code, it's about solving problems.”*

@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Md Ibrahim Khalil
 
-### 🚀 Aspiring Full Stack Web Developer | Problem Solver | Tech Enthusiast
+### 🚀 Aspiring Full Stack Web Developer
 
-Welcome to my digital space! I am a passionate learner currently diving deep into the world of Full Stack Web Development while maintaining a strong foundation in competitive programming and core computer science concepts.
+Welcome to my digital space! I am a passionate learner currently focused on building modern web applications with **Next.js** while consistently improving my skills in **Data Structures & Algorithms (DSA)** and **C++**.
 
 ---
 
